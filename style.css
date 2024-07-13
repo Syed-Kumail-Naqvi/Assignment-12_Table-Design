@@ -1,0 +1,34 @@
+.navibar {
+    background-color: grey;
+    color: white;
+    font-size: larger;
+    display: inline-block;
+    word-spacing: 50px;
+    height: 80px;
+}
+.content {
+    float: right;
+    padding-right: 350px;
+}
+.righty {
+    background-color: aqua;
+    width: 300px;
+    text-align: center;
+    color: blue;
+    height: 270px;
+}
+.first-row {
+    color: white;
+    background-color: rgb(23,187,64);
+}
+.confirm {
+    background-color: green;
+}
+.delete {
+    background-color: red;
+}
+.footer {
+    background-color: grey;
+    color: white;
+    height: 150px;
+}
